@@ -1,0 +1,14 @@
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\bin\Debug\netcoreapp2.2\grphql-test.deps.json
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\bin\Debug\netcoreapp2.2\grphql-test.runtimeconfig.json
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\bin\Debug\netcoreapp2.2\grphql-test.runtimeconfig.dev.json
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\bin\Debug\netcoreapp2.2\grphql-test.dll
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\bin\Debug\netcoreapp2.2\grphql-test.pdb
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\obj\Debug\netcoreapp2.2\grphql-test.csprojAssemblyReference.cache
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\obj\Debug\netcoreapp2.2\grphql-test.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\obj\Debug\netcoreapp2.2\grphql-test.RazorAssemblyInfo.cache
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\obj\Debug\netcoreapp2.2\grphql-test.RazorAssemblyInfo.cs
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\obj\Debug\netcoreapp2.2\grphql-test.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\obj\Debug\netcoreapp2.2\grphql-test.AssemblyInfo.cs
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\obj\Debug\netcoreapp2.2\grphql-test.RazorTargetAssemblyInfo.cache
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\obj\Debug\netcoreapp2.2\grphql-test.dll
+C:\Users\matheus.silva\Documents\Projetos\testes\grphql-test\obj\Debug\netcoreapp2.2\grphql-test.pdb
